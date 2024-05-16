@@ -1,0 +1,33 @@
+.home{
+
+    margin: 8vh 6vw 4vh 6vw;
+    background-color:rgb(150, 153, 154);
+    height: 80vh;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 18px;
+    }
+    
+    body{
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+    
+    #getout{
+    
+        height: 10vh;
+        width: 20vw;
+        font-size: large;
+        border-radius: 12px;
+        box-shadow: 4px 6px rgb(59, 108, 116);
+        background-color: rgb(51, 60, 61);
+        color: rgb(33, 179, 201);
+        
+    
+    }
+    #getout:hover{
+    background-color:rgb(50, 86, 16);
+    
+    }
